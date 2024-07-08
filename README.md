@@ -5,7 +5,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eshita-bandyopadhyay-coder&label=Profile%20views&color=0e75b6&style=flat" alt="eshita-bandyopadhyay-coder" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://eshita-bandyopadhyay-coder.github.io/HTML-CSS-PROJECT/](https://eshita-bandyopadhyay-coder.github.io/HTML-CSS-PROJECT/)
+- 👨‍💻 All of my projects are available at
+- [https://eshita-bandyopadhyay-coder.github.io/HTML-CSS-PROJECT/](https://eshita-bandyopadhyay-coder.github.io/HTML-CSS-PROJECT/)
 
 - 📫 How to reach me **eshitarajeshkapat.10d@gmail.com**
 
